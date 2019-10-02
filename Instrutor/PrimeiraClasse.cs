@@ -7,6 +7,7 @@ namespace TDSTaskDevelopers03.Instrutor
 
         public static void Texto()
         {
+            PrimeiraClasse.Texto();
             Console.WriteLine("Primeira Classe...");
 
         

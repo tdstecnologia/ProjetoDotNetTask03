@@ -8,6 +8,7 @@ namespace TDSTaskDevelopers03
         static void Main(string[] args)
         {
             PrimeiraClasse.Texto();
+            Jimmi.ExibirNome();
         }
     }
 }
