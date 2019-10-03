@@ -5,7 +5,7 @@ namespace TDSTaskDevelopers03
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Mainx(string[] args)
         {
             PrimeiraClasse.Texto();
         }
