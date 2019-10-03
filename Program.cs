@@ -1,14 +1,15 @@
 ﻿using System;
 using TDSTaskDevelopers03.Instrutor;
+using TDSTaskDevelopers03.JoaoPaulo;
 
 namespace TDSTaskDevelopers03
 {
     class Program
     {
-        static void Mainx(string[] args)
+        static void Main(string[] args)
         {
             PrimeiraClasse.Texto();
-            TDSTaskDevelopers03.Claudia.ContadorDePalavras29.Executar();
+            ContadorPalavra27.ExecutarNoMain();
         }
     }
 }

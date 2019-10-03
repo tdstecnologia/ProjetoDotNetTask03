@@ -16,7 +16,7 @@ namespace TDSTaskDevelopers03.JoaoPaulo
 
         }
 
-        public static void Main(String[] args)
+        public static void ExecutarNoMain()
         {
             ContadorPalavra27 classe = new ContadorPalavra27();
             int resultado = 0;
