@@ -8,7 +8,8 @@ namespace TDSTaskDevelopers03.Jimmi
     {
         public static void  Main(string[] args)
         {
-            Console.WriteLine("Classe String...");
+            string texto = "Sou o melhor no que faço, mas o que eu faço não é o melhor";
+            Console.WriteLine("Quantidade de caracteres: {0}", texto.Length);
 
         }
     }
