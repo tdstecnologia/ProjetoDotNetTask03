@@ -1,13 +1,15 @@
 using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace TDSTaskDevelopers03.Jimmi
 {
     public class ClasseJimmi
     {
-
-        public static void ExibirNome()
+        public static void  Main(string[] args)
         {
-            Console.WriteLine("Classe Jimmi...");
+            Console.WriteLine("Classe String...");
+
         }
     }
 }
