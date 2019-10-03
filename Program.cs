@@ -7,7 +7,7 @@ namespace TDSTaskDevelopers03
     {
         static void Main(string[] args)
         {
-            PrimeiraClasse.Texto();
+            Felipe.ContadorPalavras31.ContaPalavra();
         }
     }
 }
