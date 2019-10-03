@@ -8,7 +8,6 @@ namespace TDSTaskDevelopers03
         static void Main(string[] args)
         {
             PrimeiraClasse.Texto();
-            TDSTaskDevelopers03.Claudia.ContadorDePalavras29.Executar();
         }
     }
 }
