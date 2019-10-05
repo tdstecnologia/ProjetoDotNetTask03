@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace TDSTaskDevelopers03.Ozias
 {
-    public class ExibirFrase47
+    class ExibirFrase47
     {
         public void ExibirFrase()
         {
