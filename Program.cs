@@ -1,5 +1,5 @@
-﻿using System;
-using TDSTaskDevelopers03.Dherkyan;
+﻿using TDSTaskDevelopers03.Ozias;
+
 
 namespace TDSTaskDevelopers03
 {
@@ -7,7 +7,8 @@ namespace TDSTaskDevelopers03
     {
         static void Main(string[] args)
         {
-            ExibirFrase41.ExibirFrase();
+            var Mensagem = new ExibirFrase47();
+            Mensagem.ExibirFrase();
         }
     }
 }
