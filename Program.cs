@@ -1,6 +1,5 @@
 ﻿using TDSTaskDevelopers03.Ozias;
 
-
 namespace TDSTaskDevelopers03
 {
     class Program
