@@ -1,5 +1,6 @@
 ﻿using System;
-using TDSTaskDevelopers03.Wander;
+using TDSTaskDevelopers03.Carlos;
+using TDSTaskDevelopers03.Instrutor;
 
 namespace TDSTaskDevelopers03
 {
@@ -7,7 +8,7 @@ namespace TDSTaskDevelopers03
     {
         static void Main(string[] args)
         {
-            ExibirFrase46.ExibirFrase();
+            ExibirFrase43.ExibirFrase();
         }
     }
 }
