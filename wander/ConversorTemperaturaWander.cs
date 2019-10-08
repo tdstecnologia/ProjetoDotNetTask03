@@ -19,10 +19,6 @@ namespace TDSTaskDevelopers03.Wander
             catch (FormatException e) {
                 Console.WriteLine("Erro no formato" + e.Message);
             }
-
-
-
-
         }
     }
 }
