@@ -1,0 +1,22 @@
+﻿using System;
+<<<<<<< HEAD
+using TDSTaskDevelopers03.Carlos;
+using TDSTaskDevelopers03.Instrutor;
+=======
+using TDSTaskDevelopers03.JoaoPaulo;
+>>>>>>> [task-44] Commit p/ Conflito - Exibir Frase - João Paulo
+
+namespace TDSTaskDevelopers03
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+<<<<<<< HEAD
+            ExibirFrase43.ExibirFrase();
+=======
+            ExibirFrase44.ExibirFrase("Deus seja Louvado!!");
+>>>>>>> [task-44] Commit p/ Conflito - Exibir Frase - João Paulo
+        }
+    }
+}
