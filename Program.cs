@@ -1,4 +1,5 @@
 ﻿using System;
+using TDSTaskDevelopers03.FelipeRyan;
 using TDSTaskDevelopers03.JoaoPaulo;
 
 namespace TDSTaskDevelopers03
@@ -7,7 +8,7 @@ namespace TDSTaskDevelopers03
     {
         static void Main(string[] args)
         {
-            ExibirFrase44.ExibirFrase("Deus seja Louvado!!");
+            ExibirFrase79.ExibirFrase();
         }
     }
 }
