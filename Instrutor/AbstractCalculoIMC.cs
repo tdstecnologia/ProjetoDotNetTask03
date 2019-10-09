@@ -6,7 +6,7 @@ namespace TDSTaskDevelopers03.Instrutor
 {
     public abstract class AbstractCalculoIMC
     {
-        public abstract void CalcularIMC();
+        public abstract double CalcularIMC();
 
     }
 }
