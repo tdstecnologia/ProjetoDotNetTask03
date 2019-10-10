@@ -13,7 +13,7 @@ namespace TDSTaskDevelopers03.Claudia
         {
             double imc;
 
-            imc = CalcularIMC();
+            imc = CalcularIMC(); //
             Console.WriteLine("Seu IMC é" + imc);
             ClassificarIMC(imc);
         }
