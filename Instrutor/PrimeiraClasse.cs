@@ -8,6 +8,8 @@ namespace TDSTaskDevelopers03.Instrutor
         public static void Texto()
         {
             Console.WriteLine("Primeira Classe...");
+
+        
         }
     }
 }

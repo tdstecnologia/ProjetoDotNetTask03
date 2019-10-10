@@ -1,5 +1,6 @@
 ﻿using System;
-using TDSTaskDevelopers03.Instrutor;
+using TDSTaskDevelopers03.FelipeRyan;
+using TDSTaskDevelopers03.JoaoPaulo;
 
 namespace TDSTaskDevelopers03
 {
@@ -7,7 +8,7 @@ namespace TDSTaskDevelopers03
     {
         static void Main(string[] args)
         {
-            PrimeiraClasse.Texto();
+            ExibirFrase79.ExibirFrase();
         }
     }
 }
