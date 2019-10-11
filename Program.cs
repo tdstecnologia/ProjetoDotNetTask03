@@ -1,6 +1,6 @@
 ﻿using System;
-using TDSTaskDevelopers03.Carlos;
-
+using TDSTaskDevelopers03.FelipeRyan;
+using TDSTaskDevelopers03.JoaoPaulo;
 
 namespace TDSTaskDevelopers03
 {
@@ -8,10 +8,9 @@ namespace TDSTaskDevelopers03
     {
         static void Main(string[] args)
         {
-            CalculoIMC calculoIMC = new CalculoIMC();
+            CalculoIMC imc = new CalculoIMC();
+            imc.CalcularIMC();
 
-            double  imc = calculoIMC.CalcularIMC();
-            calculoIMC.ClassificarIMC(imc);
         }
     }
 }
